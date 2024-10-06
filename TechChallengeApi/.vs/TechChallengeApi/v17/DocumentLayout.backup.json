@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{889A10A4-FF31-4C3C-A35B-D9E009F664BA}|Services\\Services.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A10A4-FF31-4C3C-A35B-D9E009F664BA}|Services\\Services.csproj|solutionrelative:services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB74F2-C24B-4CAD-87D6-9CD1C4463BF8}|TechChallengeApi\\TechChallengeApi.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\techchallengeapi\\mapprofiles\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFB74F2-C24B-4CAD-87D6-9CD1C4463BF8}|TechChallengeApi\\TechChallengeApi.csproj|solutionrelative:techchallengeapi\\mapprofiles\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\producttype\\producttypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\producttype\\producttypeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\product\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\product\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\producttype\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\producttype\\producttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\product\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\product\\productpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\resources\\dtos\\base\\softdeletebaseauditedentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1272B1DA-129C-4EEC-8A06-82EE33381D0D}|Resources\\Resources.csproj|solutionrelative:resources\\dtos\\base\\softdeletebaseauditedentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{889A10A4-FF31-4C3C-A35B-D9E009F664BA}|Services\\Services.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{889A10A4-FF31-4C3C-A35B-D9E009F664BA}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFB74F2-C24B-4CAD-87D6-9CD1C4463BF8}|TechChallengeApi\\TechChallengeApi.csproj|d:\\programacion\\reposlocal\\techchallengeapi\\techchallengeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFB74F2-C24B-4CAD-87D6-9CD1C4463BF8}|TechChallengeApi\\TechChallengeApi.csproj|solutionrelative:techchallengeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\TechChallengeApi\\MapProfiles\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "TechChallengeApi\\MapProfiles\\AutoMapper.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\TechChallengeApi\\MapProfiles\\AutoMapper.cs",
+              "RelativeToolTip": "TechChallengeApi\\MapProfiles\\AutoMapper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:47:54.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPutDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductPutDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\Product\\ProductPutDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductPutDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\Product\\ProductPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:45:25.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTypeDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\ProductType\\ProductTypeDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\ProductType\\ProductTypeDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\ProductType\\ProductTypeDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\ProductType\\ProductTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:44:52.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\Product\\ProductDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:44:41.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductPostDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductPostDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\Product\\ProductPostDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Product\\ProductPostDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\Product\\ProductPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:44:37.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoftDeleteBaseAuditedEntityDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Base\\SoftDeleteBaseAuditedEntityDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\Base\\SoftDeleteBaseAuditedEntityDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\Base\\SoftDeleteBaseAuditedEntityDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\Base\\SoftDeleteBaseAuditedEntityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:44:24.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\TechChallengeApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TechChallengeApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\TechChallengeApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TechChallengeApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T21:42:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:41:28.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTypeService.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Services\\ProductTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductTypeService.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Services\\ProductTypeService.cs",
+              "RelativeToolTip": "Services\\ProductTypeService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:32:26.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTypePutDto.cs",
+              "DocumentMoniker": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\ProductType\\ProductTypePutDto.cs",
+              "RelativeDocumentMoniker": "Resources\\Dtos\\ProductType\\ProductTypePutDto.cs",
+              "ToolTip": "D:\\Programacion\\ReposLocal\\TechChallengeApi\\Resources\\Dtos\\ProductType\\ProductTypePutDto.cs",
+              "RelativeToolTip": "Resources\\Dtos\\ProductType\\ProductTypePutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T21:45:41.571Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\bin\Debug\net6.0\Domain.dll
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\bin\Debug\net6.0\Common.dll
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\bin\Debug\net6.0\Common.pdb
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.dll
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Programacion\ReposLocal\TechChallengeApi\Domain\obj\Debug\net6.0\ref\Domain.dll
