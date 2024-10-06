@@ -7,7 +7,8 @@ namespace Infrastructure.Interfaces.Repositories.Base
         where TEntity : class
     {
         Task<TEntity?> GetByIdAsync(TEntityKey entityId);
-        Task<IEnumerable<TEntity>> GetAllAsync(bool isTraceable = false);
+        Task<IEnumerable<TEntity>> GetAllAsync();
+        Task<IEnumerable<TEntity>> GetAllPaginatedAsync(int skip, int take);
         Task<SaveResultDto<TEntity>> CreateAndSaveAsync(TEntity entity);
         Task<SaveResultDto<TEntity>> UpdateAndSaveAsync(TEntity entities);
         Task<SaveResultDto<TEntity>> DeleteAndSaveAsync(TEntity entity);

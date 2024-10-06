@@ -24,6 +24,7 @@ namespace DataAcces.Context
         {
             OnAdd();
             OnUpdate();
+            OnDelete();
 
             return base.SaveChanges(acceptAllChangesOnSuccess);
         }
@@ -32,34 +33,21 @@ namespace DataAcces.Context
         {
             OnAdd();
             OnUpdate();
+            OnDelete();
 
             return base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
-        }
-
-        public int SaveChangesSoftDelete(bool acceptAllChangesOnSuccess = true)
-        {
-            OnDelete();
-
-            return SaveChanges(acceptAllChangesOnSuccess);
-        }
-        public Task<int> SaveChangesSoftDeleteAsync(bool acceptAllChangesOnSuccess = true, CancellationToken cancellationToken = default)
-        {
-            OnDelete();
-
-            return SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
         }
         #endregion SaveChanges
 
         #region Triggers
-        private void OnDelete()
+        private void OnAdd()
         {
-            foreach (var entity in ChangeTracker.Entries().Where(x => x.Entity is BaseEntity<Guid> && x.State == EntityState.Deleted))
+            foreach (var entity in ChangeTracker.Entries().Where(x => x.Entity is BaseEntity<Guid> && x.State == EntityState.Added))
             {
-                entity.Property(nameof(SoftDeleteBaseEntity<Guid>.IsDeleted)).CurrentValue = true;
-                entity.Property(nameof(SoftDeleteBaseEntity<Guid>.IsDeleted)).IsModified = true;
+                entity.Property(nameof(BaseEntity<Guid>.CreationDate)).CurrentValue = DateTime.UtcNow;
+                entity.Property(nameof(BaseEntity<Guid>.CreationDate)).IsModified = true;
                 entity.Property(nameof(BaseEntity<Guid>.UpdateDate)).CurrentValue = DateTime.UtcNow;
                 entity.Property(nameof(BaseEntity<Guid>.UpdateDate)).IsModified = true;
-                entity.State = EntityState.Modified;
             }
         }
 
@@ -72,14 +60,15 @@ namespace DataAcces.Context
             }
         }
 
-        private void OnAdd()
+        private void OnDelete()
         {
-            foreach (var entity in ChangeTracker.Entries().Where(x => x.Entity is BaseEntity<Guid> && x.State == EntityState.Added))
+            foreach (var entity in ChangeTracker.Entries().Where(x => x.Entity is SoftDeleteBaseEntity<Guid> && x.State == EntityState.Deleted))
             {
-                entity.Property(nameof(BaseEntity<Guid>.CreationDate)).CurrentValue = DateTime.UtcNow;
-                entity.Property(nameof(BaseEntity<Guid>.CreationDate)).IsModified = true;
+                entity.Property(nameof(SoftDeleteBaseEntity<Guid>.IsDeleted)).CurrentValue = true;
+                entity.Property(nameof(SoftDeleteBaseEntity<Guid>.IsDeleted)).IsModified = true;
                 entity.Property(nameof(BaseEntity<Guid>.UpdateDate)).CurrentValue = DateTime.UtcNow;
                 entity.Property(nameof(BaseEntity<Guid>.UpdateDate)).IsModified = true;
+                entity.State = EntityState.Modified;
             }
         }
         #endregion

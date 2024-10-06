@@ -1,4 +1,6 @@
 ﻿using Common.Enums.Response;
+using DataAcces.Context;
+using Domain.Entities.Base;
 using Infrastructure.Interfaces.Context;
 using Infrastructure.Interfaces.Repositories.Base;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +12,7 @@ namespace DataAcces.Repositories.Base
 {
     public class BaseRepository<TApiContext, TEntity, TEntityKey> : IBaseRepository<TEntity, TEntityKey>
         where TEntity : class
-        where TApiContext : DbContext
+        where TApiContext : ApiContext
     {
 
         private readonly IApiContext _apiContext;
@@ -44,9 +46,14 @@ namespace DataAcces.Repositories.Base
             return await Context.Set<TEntity>().FindAsync(entityId);
         }
 
-        public async virtual Task<IEnumerable<TEntity>> GetAllAsync(bool isTraceable = false)
+        public async virtual Task<IEnumerable<TEntity>> GetAllAsync()
         {
             return await Context.Set<TEntity>().ToListAsync();
+        }
+
+        public async virtual Task<IEnumerable<TEntity>> GetAllPaginatedAsync(int skip, int take)
+        {
+            return await Context.Set<TEntity>().Skip(skip).Take(take).ToListAsync();
         }
 
         public async virtual Task<SaveResultDto<TEntity>> CreateAndSaveAsync(TEntity entity)
