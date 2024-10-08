@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sWoOvL/56OE=",
+  "dgSpecHash": "zojwAZv+AUA=",
   "success": true,
-  "projectFilePath": "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albet\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

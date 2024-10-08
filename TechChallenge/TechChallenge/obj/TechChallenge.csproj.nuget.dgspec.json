@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\TechChallenge.csproj": {}
+    "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\TechChallenge.csproj": {}
   },
   "projects": {
-    "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\TechChallenge.csproj": {
+    "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\TechChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
+        "projectUniqueName": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
         "projectName": "TechChallenge",
-        "projectPath": "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
+        "projectPath": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\TechChallenge.csproj",
         "packagesPath": "C:\\Users\\albet\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacion\\ReposLocal\\TechChallenge\\TechChallenge\\obj\\",
+        "outputPath": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

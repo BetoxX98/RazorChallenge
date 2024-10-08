@@ -9,39 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TechChallenge
 build_property.RootNamespace = TechChallenge
-build_property.ProjectDir = D:\Programacion\ReposLocal\TechChallenge\TechChallenge\
+build_property.ProjectDir = D:\Repos\Repos_Local\RazorChallenge\TechChallenge\TechChallenge\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Programacion\ReposLocal\TechChallenge\TechChallenge
+build_property.MSBuildProjectDirectory = D:\Repos\Repos_Local\RazorChallenge\TechChallenge\TechChallenge
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/Error.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/Index.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/Privacy.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/ProductType/ProductTypes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFR5cGVcUHJvZHVjdFR5cGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Product/Products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/_ViewImports.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/_ViewStart.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programacion/ReposLocal/TechChallenge/TechChallenge/Pages/Shared/_Layout.cshtml]
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5wubyuvr9l
