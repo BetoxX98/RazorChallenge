@@ -1,0 +1,23 @@
+Instrucciones:
+
+1.- Tener una base de datos operativa:
+
+En mi caso he usado una de docker con el comando: 
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=12345Aa." -p 1433:1433 --name sql --hostname sql -d mcr.microsoft.com/mssql/server:2019-latest
+
+2.- Cambiar la cadena de conexion:
+
+La cadena de conexion la encontramos en el archivo appsettings.json en la solucion de BE "TechChallengeApi", en el proyecto principal "TechChallengeApi"
+
+3.- Actualizar la base de datos con nuestras migraciones 
+
+Para ello hay diversas maneras de hacerlo: 
+https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/applying?tabs=dotnet-core-cli
+
+En mi caso uso la consola de comandos asi que entro en el proyecto principal del Be de nuevo (donde encontramos el appsettings.json) y lanzo:
+dotnet ef database update -p ..\DataAcces\
+
+4.- Compilar y lanzar proyecto de BE "TechChallengeApi" (Api Rest en .Net6)
+
+5.- Compilar y lanzar proyecto de BE "TechChallenge" FE (RazorPages .Net6)
+
