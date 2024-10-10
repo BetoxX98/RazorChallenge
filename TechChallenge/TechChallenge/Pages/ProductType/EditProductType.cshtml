@@ -1,0 +1,31 @@
+﻿@page
+@model EditProductTypeModel
+
+<div class="d-flex justify-content-end">
+    <a asp-page="ProductTypes" class="btn btn-secondary">Volver</a>
+</div>
+
+<h2>Edit ProductType</h2>
+@if (Model.ProductTypePut == null)
+{
+    <p>ProductType not found.</p>
+}
+else
+{
+    <form method="post">
+        <input type="hidden" name="ProductTypePut.Id" value="@Model.ProductTypePut.Id" />
+        <div class="form-group mt-3">
+            <label for="name">ProductType Name</label>
+            <input type="text" class="form-control" id="name" name="ProductTypePut.Name" required value="@Model.ProductTypePut.Name" />
+        </div>
+        <div class="form-group mt-3">
+            <label for="description">ProductType Description</label>
+            <input type="text" class="form-control" id="description" name="ProductTypePut.Description" required value="@Model.ProductTypePut.Description" />
+        </div>
+        <div class="form-group mt-3">
+            <label for="color">ProductType Color</label>
+            <input type="text" class="form-control" id="color" name="ProductTypePut.Color" required value="@Model.ProductTypePut.Color" />
+        </div>
+        <button type="submit" class="btn btn-primary mt-5">Save</button>
+    </form>
+}

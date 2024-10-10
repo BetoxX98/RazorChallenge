@@ -7,6 +7,6 @@ namespace Domain.Entities
         public string Name { get; set; } = string.Empty;
         public double Price { get; set; }
         public Guid? TypeId { get; set; }
-        public ProductType? Type { get; set; } = new ProductType();
+        public ProductType? Type { get; set; }
     }
 }

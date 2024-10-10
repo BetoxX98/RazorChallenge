@@ -1,0 +1,23 @@
+﻿@page
+@model AddProductTypeModel
+
+<div class="d-flex justify-content-end">
+    <a asp-page="ProductTypes" class="btn btn-secondary">Volver</a>
+</div>
+
+<h2>Add ProductType</h2>
+<form method="post">
+    <div class="form-group mt-3">
+        <label for="name">ProductType Name</label>
+        <input type="text" class="form-control" id="name" name="ProductTypePost.Name" required />
+    </div>
+    <div class="form-group mt-3">
+        <label for="price">Description</label>
+        <input type="text" class="form-control" id="description" name="ProductTypePost.Description" required step="0.01" />
+    </div>
+    <div class="form-group mt-3">
+        <label for="price">Color</label>
+        <input type="text" class="form-control" id="color" name="ProductTypePost.Color" required step="0.01" />
+    </div>
+    <button type="submit" class="btn btn-primary mt-5">Save</button>
+</form>

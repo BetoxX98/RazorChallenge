@@ -30,6 +30,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/ProductType/AddProductType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFR5cGVcQWRkUHJvZHVjdFR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/ProductType/EditProductType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFR5cGVcRWRpdFByb2R1Y3RUeXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Repos/Repos_Local/RazorChallenge/TechChallenge/TechChallenge/Pages/ProductType/ProductTypes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFR5cGVcUHJvZHVjdFR5cGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

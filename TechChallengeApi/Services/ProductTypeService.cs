@@ -45,7 +45,7 @@ namespace Services
 
             var productTypes = await _productTypeRepository.GetAllAsync();
 
-            if (productTypes.NotNullOrEmpty())
+            if (productTypes != null)
             {
                 result = new ResultDto<IEnumerable<ProductTypeDto>>(_mapper.Map<List<ProductTypeDto>>(productTypes));
             }

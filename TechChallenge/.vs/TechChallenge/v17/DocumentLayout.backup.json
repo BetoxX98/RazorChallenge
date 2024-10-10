@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,32 +23,20 @@
       "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\producttype\\producttypes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\producttype\\producttypes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\producttype\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\producttype\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\product\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\product\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\dtos\\product\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\dtos\\product\\productputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|d:\\repos\\repos_local\\razorchallenge\\techchallenge\\techchallenge\\pages\\producttype\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A64967B-C453-4D1B-9C65-24580E6A20E9}|TechChallenge\\TechChallenge.csproj|solutionrelative:techchallenge\\pages\\producttype\\producttypes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,19 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Dtos\\Product\\ProductDto.cs",
-              "RelativeDocumentMoniker": "TechChallenge\\Dtos\\Product\\ProductDto.cs",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Dtos\\Product\\ProductDto.cs",
-              "RelativeToolTip": "TechChallenge\\Dtos\\Product\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\Products.cshtml.cs",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml.cs",
+              "RelativeToolTip": "TechChallenge\\Pages\\Product\\Products.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:17:43.427Z",
+              "WhenOpened": "2024-10-10T16:40:37.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechChallenge\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:40:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductPutDto.cs",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Dtos\\Product\\ProductPutDto.cs",
+              "RelativeDocumentMoniker": "TechChallenge\\Dtos\\Product\\ProductPutDto.cs",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Dtos\\Product\\ProductPutDto.cs",
+              "RelativeToolTip": "TechChallenge\\Dtos\\Product\\ProductPutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:37:16.026Z",
               "EditorCaption": ""
             },
             {
@@ -73,113 +95,74 @@
               "RelativeDocumentMoniker": "TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml",
               "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml",
               "RelativeToolTip": "TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T21:03:50.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductTypes.cshtml.cs",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml.cs",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml.cs",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml.cs",
-              "RelativeToolTip": "TechChallenge\\Pages\\ProductType\\ProductTypes.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T21:03:22.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TechChallenge\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T21:02:27.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\AddProduct.cshtml",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml",
-              "RelativeToolTip": "TechChallenge\\Pages\\Product\\AddProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T20:50:24.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Products.cshtml.cs",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml.cs",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\Products.cshtml.cs",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml.cs",
-              "RelativeToolTip": "TechChallenge\\Pages\\Product\\Products.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:49:46.353Z",
+              "WhenOpened": "2024-10-10T16:19:44.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EditProduct.cshtml.cs",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
-              "RelativeToolTip": "TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:49:36.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\Products.cshtml",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml",
-              "RelativeToolTip": "TechChallenge\\Pages\\Product\\Products.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T20:42:33.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditProduct.cshtml",
-              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml",
-              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\EditProduct.cshtml",
-              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml",
-              "RelativeToolTip": "TechChallenge\\Pages\\Product\\EditProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T20:42:07.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AddProduct.cshtml.cs",
               "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml.cs",
               "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\AddProduct.cshtml.cs",
               "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml.cs",
               "RelativeToolTip": "TechChallenge\\Pages\\Product\\AddProduct.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T20:42:03.756Z",
+              "WhenOpened": "2024-10-10T16:18:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
+              "RelativeToolTip": "TechChallenge\\Pages\\Product\\EditProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:18:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\AddProduct.cshtml",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "TechChallenge\\Pages\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:18:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\EditProduct.cshtml",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "TechChallenge\\Pages\\Product\\EditProduct.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:18:00.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "TechChallenge\\Pages\\Product\\Products.cshtml",
+              "ToolTip": "D:\\Repos\\Repos_Local\\RazorChallenge\\TechChallenge\\TechChallenge\\Pages\\Product\\Products.cshtml",
+              "RelativeToolTip": "TechChallenge\\Pages\\Product\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:16:14.095Z",
               "EditorCaption": ""
             }
           ]
